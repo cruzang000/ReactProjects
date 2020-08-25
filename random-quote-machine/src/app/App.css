@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  min-height: 100vh;
+}
+
+#quote-box {
+  width: 450px;
+}
+
+blockquote {
+  font-size: 1.5em;
+}
+
